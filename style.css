@@ -1,0 +1,29 @@
+header#main-header {
+  padding-bottom: 5px;
+  background-color: #BBBDC4;
+  color: white; 
+  text-align: left;
+   margin-top: 0;
+   font-family: Arial;
+   font-size: 25px;
+
+}
+
+
+
+
+aside section h4 {
+  text-align: center;
+  font-family: Arial;
+  color: black; 
+  font-size: 15px;
+  line-height: 17px; 
+
+}
+
+header h2 {
+  font-size: 20px;
+  font-family: Arial;
+ 
+  color: white;
+}
